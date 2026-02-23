@@ -1,0 +1,7 @@
+{
+  "name": "SwiftLink TMS",
+  "description": "A comprehensive Transport Management System for small to mid-sized trucking companies, featuring real-time fleet tracking, intelligent dispatching powered by Gemini AI, and revenue analytics.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
